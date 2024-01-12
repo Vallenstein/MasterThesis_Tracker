@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "eigen3",
+    "opengl",
+    "glew",
+    "glfw3",
+    "opencv",
+    "opencv[contrib]"
+  ]
+}
